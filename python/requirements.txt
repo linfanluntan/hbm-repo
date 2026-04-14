@@ -1,0 +1,7 @@
+jax>=0.4.20
+jaxlib>=0.4.20
+numpyro>=0.13.0
+arviz>=0.17.0
+cmdstanpy>=1.2.0
+numpy>=1.24
+matplotlib>=3.7
