@@ -7,7 +7,7 @@
 
 **Companion repository for the manuscript:**
 *HBM — The Unifying Language for Scale, Resolution, View, Task, and Mode Integration*
-Renjie He — Fuller Lab, Department of Radiation Oncology, MD Anderson Cancer Center
+Department of Radiation Oncology, MD Anderson Cancer Center
 
 ---
 
